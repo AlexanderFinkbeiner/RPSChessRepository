@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS Chess", "RPS Chess.csproj", "{2AD6D52D-E782-2EA2-C591-173BE46B9DF5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS_Chess", "RPS_Chess.csproj", "{2AD6D52D-E782-2EA2-C591-173BE46B9DF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
